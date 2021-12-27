@@ -15,7 +15,8 @@ public class JavaApplicationGithub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         System.out.println("Hello World");
+         System.out.println("Hello World");//written by Rico
+         System.out.println("Hi Rico!");//Written by Ze Hong
     }
     
 }
